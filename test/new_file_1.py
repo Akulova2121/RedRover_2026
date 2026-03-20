@@ -1,2 +1,2 @@
-def smm_1 (a, b):
-    return a * b
+def smm_1 (a, b, c):
+    return a * b * c
